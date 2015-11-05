@@ -8,8 +8,8 @@ from ntlm import HTTPNtlmAuthHandler
 	user name , password should be provided as argument and encrypted : TODO 
 	
 '''
-user = 'nttda259'
-password = 'welcome4'
+user = 'username'
+password = 'pwd'
 baseurl = 'https://tfs.bcbsnc.com/CAisd/pdmweb.exe'
 
 # password manager
